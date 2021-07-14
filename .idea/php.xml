@@ -115,6 +115,7 @@
       <path value="$PROJECT_DIR$/vendor/jmikola/geojson" />
       <path value="$PROJECT_DIR$/vendor/geo-io/interface" />
       <path value="$PROJECT_DIR$/vendor/geo-io/wkb-parser" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
